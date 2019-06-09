@@ -1,0 +1,7 @@
+*	text=auto
+*.sln	text	eol=crlf
+*.js	text
+*.cs	text
+
+*.png	binary
+*.jpg	binary
